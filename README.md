@@ -214,9 +214,10 @@ so the number of principle components needed to handle the same total percentage
 
 ## Contributers
 
-- [Yousef Kotp](https://github.com/yousefkotp)
+- [Ziad Mohamed](https://github.com/ziad-mohamed-7)
 
-- [Mohamed Farid](https://github.com/MohamedFarid612)
+- [Domadios Morkos](https://github.com/DomaMorcos)
 
-- [Adham Mohammed](https://github.com/adhammohamed1)
-
+- [Karim ElNaggar](https://github.com/karimnaggar4040)
+  
+- [Ahmed Walaa](https://github.com/Ahmed-Walaaeldin)
